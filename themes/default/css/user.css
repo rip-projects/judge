@@ -1,0 +1,13 @@
+/* You can delete all this */
+
+.layout-flexible div div { background-color:#eee; text-align:center; border:1px solid #f5f5f5 }
+
+
+/* Top Menu icons */
+.top-nav ul li li.system a       { padding-left:41px; background-image:url("../img/icons/white/16/20-gear2.png") }
+.top-nav ul li li.user a         { padding-left:41px; background-image:url("../img/icons/white/16/145-persondot.png") }
+.top-nav ul li li.profile a      { padding-left:41px; background-image:url("../img/icons/white/16/112-group.png") }
+.top-nav ul li li.profile.page a { padding-left:41px; background-image:url("../img/icons/white/16/123-id-card.png") }
+.top-nav ul li li.menu a         { padding-left:41px; background-image:url("../img/icons/white/16/104-index-cards.png") }
+.top-nav ul li li.post a         { padding-left:41px; background-image:url("../img/icons/white/16/44-shoebox.png") }
+.top-nav ul li li.logout a       { padding-left:41px; background-image:url("../img/icons/white/16/63-runner.png") }

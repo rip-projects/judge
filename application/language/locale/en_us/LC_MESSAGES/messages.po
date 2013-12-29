@@ -1,0 +1,200 @@
+msgid "(Please select)"
+msgstr ""
+
+msgid "404 Page Not Found"
+msgstr ""
+
+msgid "A PHP Error was encountered"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Base Directory"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Company Name"
+msgstr ""
+
+msgid "Controller Base Class"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Create Table"
+msgstr ""
+
+msgid "Data CSV must be in form of:"
+msgstr ""
+
+msgid "Database Error"
+msgstr ""
+
+msgid "District"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Extra"
+msgstr ""
+
+msgid "Feedback Type"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Full Name"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "Hi"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Method Count"
+msgstr ""
+
+msgid "Methods"
+msgstr ""
+
+msgid "Model Base Class"
+msgstr ""
+
+msgid "Module Count"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "No comment yet"
+msgstr ""
+
+msgid "No record available"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Old Password"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Post Name"
+msgstr ""
+
+msgid "Province"
+msgstr ""
+
+msgid "Re-type New Password"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Retype Password"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Store Type"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "URI"
+msgstr ""
+
+msgid "Upload success"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Username/Email"
+msgstr ""
+
+msgid "Username/email or password not found"
+msgstr ""
+
+msgid "You must submit the word that appears in the image"
+msgstr ""
+
+msgid "Youtube URL"
+msgstr ""
+
+msgid "city"
+msgstr ""
+
+msgid "country"
+msgstr ""
+
+msgid "format.long_date"
+msgstr "d M Y"
+
+msgid "format.mysql_datetime"
+msgstr "Y-m-d H:i:s"
+
+msgid "format.short_date"
+msgstr "d/m/Y"
+
+msgid "format.short_datetime"
+msgstr "d/m/Y H:i:s"
+
+msgid "name"
+msgstr ""
+
+msgid "province"
+msgstr ""

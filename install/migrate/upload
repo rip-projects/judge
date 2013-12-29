@@ -1,0 +1,7 @@
+#!/bin/sh
+php index.php install/upload
+
+# rsync -avz -e ssh \
+#  	--exclude /.* \
+#  	--exclude /install/db/* \
+#  	./  [user]@[ip-address]:[/var/www/]
